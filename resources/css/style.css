@@ -10,6 +10,18 @@ body {
   color: #ffffff;
 }
 
+.header--sec {
+  font-size: 42;
+  font-weight:300;
+  color: #ffffff;
+}
+
+.header--smol {
+  color: grey;
+  font-size: 21;
+  font-weight:300;
+}
+
 .link-cta {
   color: aquamarine;
   font-size: 16;
