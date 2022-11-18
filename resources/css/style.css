@@ -26,3 +26,10 @@ body {
   color: aquamarine;
   font-size: 16;
 }
+
+.footer {
+  color: grey;
+  font-size: 21;
+  text-align: right;
+
+}
